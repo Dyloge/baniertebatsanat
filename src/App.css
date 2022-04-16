@@ -1,0 +1,19 @@
+.appContainer {
+  background-color: #0c0c0c;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.app {
+  background-color: #181818;
+  border-radius: 5px;
+  width: 95%;
+}
+.sidebarContainer {
+  display: flex;
+}
+.link {
+  text-decoration: none;
+  color: inherit;
+}
